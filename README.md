@@ -8,6 +8,10 @@ Algorithm is based on paper Besarg and Clifford, 1991.
 
 Requeriments
 ===============
-- docopt
-- numpy
-- pandas
+- Packages:
+  - docopt
+  - numpy
+  - pandas
+  - rpy2
+- Other:
+  - R
