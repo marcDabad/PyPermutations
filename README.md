@@ -1,4 +1,6 @@
 PyPermutations
 ==============
 
-Used to do big number of permutations in a reduced time
+PyPermutations is script designed to do big number of permutations to analize DE. 
+
+Algorithm is based on paper Besarg and Clifford, 1991. 
